@@ -1,6 +1,8 @@
 # LangchainChat
-Random projects with langchain by me
-tests on GPT-3!
-*** you need your own OpenaiAPI to use these ***
-歡迎取用
-help yourself
+1. these are some random projects with langchain by me
+2. openai subscription not required, but
+## you need your own OpenaiAPI to use these py files
+3. just google "how to get my OpenAI API"
+4. Help yourself!
+
+   
