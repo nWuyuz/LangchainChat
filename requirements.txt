@@ -1,0 +1,6 @@
+#pip install+xxxxx
+
+urllib3==1.26.15
+langchain
+selenium
+streamlit
