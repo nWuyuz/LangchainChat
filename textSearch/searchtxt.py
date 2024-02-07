@@ -1,4 +1,4 @@
-#You need to assign a file to search for.
+#You need to assign a file to search for. Check searchforlocation.py
 #The Chatbot will look for the similar context
 import os
 
